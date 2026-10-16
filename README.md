@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi! My name is Bernardo "Ben". I'm a high school student and tech enthusiast based in Recife Pernambuco, Brazil 🇧🇷.</p>
+<p data-importer="text" align="left">Hi! My name is Bernardo "Benn". I'm a high school student and tech enthusiast based in Recife Pernambuco, Brazil 🇧🇷.</p>
 
 ###
 
